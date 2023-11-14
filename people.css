@@ -88,7 +88,7 @@ html,body{
     width: 40%;
     background-image: url("curlymini.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
 }
 #section{
@@ -121,7 +121,7 @@ html,body{
     background-image: url("curlymini.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     margin-top: 10%;
 }
 #small{
